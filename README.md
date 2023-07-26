@@ -5,8 +5,8 @@ This Python script is designed to retrieve and export worker node details from A
 ## Prerequisites
 
 1. Python 3.x installed on your system.
-2. Boto3 library for AWS interactions: pip install boto3
-3. openpyxl library for working with Excel files: pip install openpyxl
+2. Boto3 library for AWS interactions: ```pip install boto3```
+3. openpyxl library for working with Excel files: ```pip install openpyxl```
 
 
 ## Script Overview
